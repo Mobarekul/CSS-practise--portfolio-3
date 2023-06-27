@@ -1,0 +1,63 @@
+h1 {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  background-color: rgba(218, 216, 214, 0.39);
+}
+img {
+  margin: 10px;
+  height: 400px;
+  width: 350px;
+}
+.price {
+  margin: 10px;
+  font-size: 25px;
+}
+.Free {
+  margin: 10px;
+  color: #0000008f;
+  text-transform: uppercase;
+}
+a:hover {
+  margin: 10px;
+  color: rgba(163, 41, 82, 0.938);
+  text-decoration: none;
+}
+ul {
+  margin: 10px;
+  list-style: square;
+}
+button {
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  background-color: black;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: none;
+
+  width: 100%;
+  margin: 0;
+}
+button:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+
+body {
+  width: 825px;
+  margin: 70px auto;
+  border: solid black;
+}
+* {
+  margin: 0;
+}
+.dt {
+  margin: 10px;
+}
+p {
+  margin: 10px;
+}
+a {
+  margin: 10px;
+}
